@@ -1,0 +1,338 @@
+body {
+  background-image: url("/images/mountains_paul_earle.jpg");
+  background-repeat: no-repeat;
+  font-family: "Montserrat";
+  color: #295068;
+  margin: 20px 20px 20px 20px;
+  border: 5px 5px 5px 5px;
+  padding: 10px 10px 10px 10px;
+}
+
+div {
+    display:block;
+}
+
+/* spacing */
+.page-header {
+    padding: 10px 0 50px 0;
+}
+
+.header-wrapper {
+    /* why can't I get this to be horizontal instead of vertical?? */
+}
+
+.header-no-menu {
+    display:block !important;
+}
+
+.header-zone-1 {
+    padding: 0 0 5px 0;
+}
+
+.header-zone-2 {
+   border-left: 2px solid #6D6F71; 
+}
+
+.header-zone-3 {
+    padding: 0 5px 5px 0; 
+}
+
+.nav-wrapper {
+    padding: 10px 10px 10px 10px;
+    background: #468AA2;
+}
+
+.header-zone-wrapper {
+    padding: 0 25px 5px 25px;
+
+}
+/* header-zone-1 */
+.logo {
+}
+
+/* header-zone-2 */
+.phone {
+    text-decoration: none;
+    font-size: 35px;
+    color: #295068;
+    color: #6D6F71;
+}
+
+.address {    
+    color: #6D6F71;
+}
+
+.line1 {
+}
+
+.line2 {
+    font-size: 29px;
+}
+
+.social-media-links {
+    padding: 10px 23px 0 23px;
+}
+
+#facebook-icon {
+    padding: 0 10px 0 10px;
+}
+
+#yelp-icon {
+    padding: 0 10px 0 10px;
+
+}
+
+#mindbody-icon {
+    padding: 0 10px 0 10px;
+
+}
+
+/* header-zone-3 */
+.button {
+    padding: 5px 0px 15px 5px;
+    text-align: right;
+}
+
+#bookNow {
+    font-size: 25px;
+    text-align: right;
+    background-color: #4C8AA2;
+    color: #fff;
+    padding: 5px 20px 5px 20px;
+}
+
+.hours {
+    text-align: right;
+    color: #6D6F71;
+}
+
+.contact {
+    color: #286078;
+    color: #468AA2;
+    text-align: right;
+    padding-top: 10px;
+    font-size: 23px;
+}
+
+.header-header {
+    font-size: 20px;
+}
+
+/* nav bar */
+.nav-menu {
+    text-align: center;
+    text-decoration: none;
+    font-style: bold;
+    font-size: 23px;
+    padding: 3px 20px 3px 20px;
+    display:inline !important;
+    color: white;
+}
+
+.menu li {
+    display:inline !important; 
+    
+}
+
+
+.menu {
+    border: 1px solid #ccc;
+    list-style: none;
+    border-width: 1px 0;
+    background: #468AA2;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.toScroll {
+    height: 300px;
+    width: 680px;
+    border: 2px solid #fff;
+    overflow:auto;
+    background: white;
+}
+
+
+/* shared footer */
+.page-footer {
+   margin: 30px 0 0 0; 
+   /*border-top: 2px double black;*/
+    padding-top: 25px;
+    background: #4C8AA2;
+
+}
+
+.footer-content {
+   display:inline !important;
+   color: white;
+}
+
+.footer-zone-1 {
+   margin: 10px 10px 5px 10px; 
+   padding: 10px 10px 5px 10px;
+}
+
+.footer-zone-2 {
+   margin: 0px 10px 10px 10px; 
+   padding: 0px 10px 10px 10px;
+
+}
+
+.footer-zone-3 {
+   margin: 10px 10px 0px 10px; 
+   padding: 10px 10px 0px 10px;
+
+}
+
+.footer-footer {
+
+}
+
+.footer-zone-wrapper {
+
+}
+
+.footer-header {
+    font-style: bold;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin:0;
+    text-decoration: underline;
+    margin-top: 5px;
+    color: #295068;
+    font-size: 20px;
+   color: white;
+}
+
+/* footer-zone-1 */
+.footer-contact {
+
+}
+
+.footer-tel {
+    font-size: 13px;
+}
+
+.footer-phone {
+    color: #295068;
+    text-decoration: none;
+    padding-top: 15px;
+   color: white;
+}
+
+/* footer-zone-2 */
+.footer-hours {
+    display:table !important;
+    margin-top: 3px;
+}
+
+.footer-email-link {
+        margin-top: 0;
+}
+
+.footer-email {
+    margin-top: 10px;
+    text-decoration:none;
+    font-size: 13px;
+    color: white;
+}
+
+.footer-apptOnly-msg {
+
+}
+
+.apptOnly {
+
+}
+
+/* footer-zone-3 */
+#info {
+    color:white;
+    text-align:right;
+    display:block!important;
+    font-size: 20px;
+}
+
+.footer-links-content {
+    list-style: none;
+    color: white;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.link {
+    color: white;
+    list-style:none;
+    text-decoration:none;
+    text-align: right;
+    display:block !important;
+}
+
+/* ultimate footer */
+.footer-footer {
+    margin: 20px 0 0 0;
+}
+
+.footer-footer-wrapper {
+
+}
+
+.copyright {
+    padding: 10px 0 20px 15px;
+    font-size: 12px;
+}
+
+/* slideshow from W3schools */
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+.dots {
+    text-align: center;
+}
