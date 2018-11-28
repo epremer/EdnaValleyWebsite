@@ -12,6 +12,13 @@ Developing my own website enabled me to design it to my exact specifications and
 
 -------------------------------------------------------------------
 
+Platforms/Languages/Tools Used
+-------------------------------------------------------------------
+I developed this website in Atom and using NodeJS on the Oregon State University school server command line - CentOS. This website utilitizes NodeJS, JavaScript, Handlebars, HTML, and CSS.
+
+-------------------------------------------------------------------
+
+
 Contents included in this release
 -------------------------------------------------------------------
 	package-lock.json
